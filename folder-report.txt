@@ -1,0 +1,4 @@
+folder-report.txt | 0 bytes | 2026-11-03T15:28:23.5606327Z
+FolderReport$1.class | 1811 bytes | 2026-11-03T15:28:23.3768732Z
+FolderReport.class | 1841 bytes | 2026-11-03T15:28:23.383508Z
+FolderReport.java | 1062 bytes | 2026-11-03T15:28:10.0959788Z
